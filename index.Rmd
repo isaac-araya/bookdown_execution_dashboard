@@ -1,5 +1,5 @@
 --- 
-title: "YOUR TITLE HERE"
+title: "Quick Start Guide to a single stop Dashboard"
 author: "YOUR NAME HERE"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
